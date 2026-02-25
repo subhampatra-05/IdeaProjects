@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Registration</title>
+</head>
+<body>
+
+<h2>Employee Registration Form</h2>
+
+<form action="employee" method="post">
+
+    Name: <input type="text" name="name" required><br><br>
+
+    Salary: <input type="number" name="salary" required><br><br>
+
+    Department:
+    <select name="department" required>
+        <option value="">--Select--</option>
+        <option value="HR">HR</option>
+        <option value="IT">IT</option>
+        <option value="Finance">Finance</option>
+        <option value="Marketing">Marketing</option>
+    </select>
+    <br><br>
+
+    <input type="submit" value="Register">
+
+</form>
+
+</body>
+</html>

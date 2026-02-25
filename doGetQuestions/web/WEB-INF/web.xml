@@ -1,0 +1,77 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         version="4.0">
+
+<!--    <servlet>-->
+<!--        <servlet-name>Getservlet</servlet-name>-->
+<!--        <servlet-class>com.demo.Getservlet</servlet-class>-->
+<!--    </servlet>-->
+
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>Getservlet</servlet-name>-->
+<!--        <url-pattern>/server</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+<!--    <servlet>-->
+<!--        <servlet-name>studentservlet</servlet-name>-->
+<!--        <servlet-class>com.demo.studentservlet</servlet-class>-->
+<!--    </servlet>-->
+
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>studentservlet</servlet-name>-->
+<!--        <url-pattern>/student</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+
+<!--    task-5-->
+
+
+<!--    <servlet>-->
+<!--        <servlet-name>GreaterServlet</servlet-name>-->
+<!--        <servlet-class>com.demo.GreaterServlet</servlet-class>-->
+<!--    </servlet>-->
+
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>GreaterServlet</servlet-name>-->
+<!--        <url-pattern>/greater</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+<!--    task-6-->
+
+<!--    <servlet>-->
+<!--            <servlet-name>SIservlet</servlet-name>-->
+<!--            <servlet-class>com.demo.SIservlet</servlet-class>-->
+<!--        </servlet>-->
+
+<!--        <servlet-mapping>-->
+<!--            <servlet-name>SIservlet</servlet-name>-->
+<!--            <url-pattern>/si</url-pattern>-->
+<!--        </servlet-mapping>-->
+
+<!--    tasl-9-->
+
+
+<!--    <servlet>-->
+<!--        <servlet-name>SkillsServlet</servlet-name>-->
+<!--        <servlet-class>com.demo.SkillsServlet</servlet-class>-->
+<!--    </servlet>-->
+
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>SkillsServlet</servlet-name>-->
+<!--        <url-pattern>/skills</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+    <servlet>
+        <servlet-name>MethodServlet</servlet-name>
+        <servlet-class>com.demo.MethodServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>MethodServlet</servlet-name>
+        <url-pattern>/method</url-pattern>
+    </servlet-mapping>
+
+
+    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+</web-app>
