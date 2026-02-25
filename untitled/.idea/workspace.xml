@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79f15f30-8779-470d-b1ce-f776cb93e55a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38sqgKT7syVK1joSXl9RnwgjlJ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Jdbc1.executor": "Run",
+    "Application.QuizApp.executor": "Run",
+    "Application.Update.executor": "Run",
+    "Application.batch.executor": "Run",
+    "Application.callabledemo.executor": "Run",
+    "Application.callableupdate.executor": "Run",
+    "Application.calldelete.executor": "Run",
+    "Application.callinsert.executor": "Run",
+    "Application.callread.executor": "Run",
+    "Application.delete.executor": "Run",
+    "Application.insert.executor": "Run",
+    "Application.jdbc1.executor": "Run",
+    "Application.mainapp.executor": "Run",
+    "Application.update.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/untitled/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79f15f30-8779-470d-b1ce-f776cb93e55a" name="Changes" comment="" />
+      <created>1769598737683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769598737683</updated>
+      <workItem from="1769598740020" duration="466000" />
+      <workItem from="1769599278545" duration="5000" />
+      <workItem from="1769599531161" duration="2762000" />
+      <workItem from="1769682658676" duration="4288000" />
+      <workItem from="1769763710235" duration="1058000" />
+      <workItem from="1769765108579" duration="421000" />
+      <workItem from="1769768302439" duration="7252000" />
+      <workItem from="1769854877888" duration="4548000" />
+      <workItem from="1769861808973" duration="19000" />
+      <workItem from="1770027653902" duration="311000" />
+      <workItem from="1770115581253" duration="738000" />
+      <workItem from="1770197705333" duration="1395000" />
+      <workItem from="1770200254909" duration="3796000" />
+      <workItem from="1770459650512" duration="5766000" />
+      <workItem from="1770632150397" duration="1395000" />
+      <workItem from="1771431866203" duration="4220000" />
+      <workItem from="1771470125102" duration="1238000" />
+      <workItem from="1771928073114" duration="217000" />
+      <workItem from="1772040179302" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jdbc1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
