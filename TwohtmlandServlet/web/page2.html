@@ -7,9 +7,20 @@
 
 <h2>Second html page</h2>
 <!--<h3>Tasks of doPost()</h3>-->
-<form action="servlet1" method="post">
+<!--<form action="servlet1" method="post">-->
 
-    <input type="submit" value="Servlet-1">
+<!--    <input type="submit" value="Servlet-1">-->
+<!--</form>-->
+
+<!--<form action="servlet1" method="post">-->
+<!--    <input type="hidden" name="username"-->
+<!--           value="<%= request.getParameter("username") %>">-->
+<!--    <input type="submit" value="Go to Servlet1">-->
+
+    <form action="servlet1" method="post">
+        Name: <input type="text" name="username">
+        <input type="submit" value="Next">
+    </form>
 </form>
 </body>
 </html>
