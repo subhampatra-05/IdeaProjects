@@ -10,4 +10,6 @@ doGetQuestions : contains tasks of doGet().
 
 doPostQuestions : contains tasks of doPost().
 
-TwohtmlandServlet : contains redirecting from html pages to server and implemented session tracking(Http Session, Cookies, URL Rewriting)
+TwohtmlandServlet : contains redirecting from html pages to server and implemented session tracking(Http Session, Cookies, URL Rewriting).
+
+SessionTrackingProject : contains project on the 4 techniques of session tracking.
